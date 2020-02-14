@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29728.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetCoreWithMongoDB", "DotNetCoreWithMongoDB\DotNetCoreWithMongoDB.csproj", "{92544747-D532-4399-A2C6-FD5EB17EA282}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DotNetCoreWithMongoDB", "DotNetCoreWithMongoDB\DotNetCoreWithMongoDB.csproj", "{92544747-D532-4399-A2C6-FD5EB17EA282}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudWithMultilvelNestedDoc", "CrudWithMultilvelNestedDoc\CrudWithMultilvelNestedDoc.csproj", "{0006B8D4-9A24-4AF5-8869-C02093723A98}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{92544747-D532-4399-A2C6-FD5EB17EA282}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92544747-D532-4399-A2C6-FD5EB17EA282}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92544747-D532-4399-A2C6-FD5EB17EA282}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0006B8D4-9A24-4AF5-8869-C02093723A98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0006B8D4-9A24-4AF5-8869-C02093723A98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0006B8D4-9A24-4AF5-8869-C02093723A98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0006B8D4-9A24-4AF5-8869-C02093723A98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
